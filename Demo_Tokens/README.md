@@ -1,4 +1,4 @@
-# LLM Chatbot Console Tool
+# LLM Demos
 
 Python script to interact with language models (LLMs) from the console, allowing cost estimation and response customization.
 

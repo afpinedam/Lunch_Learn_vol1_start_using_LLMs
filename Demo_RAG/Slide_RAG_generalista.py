@@ -113,7 +113,7 @@ documents = [
 
 def get_embedding(text):
     response = ollama.embeddings(
-        model="bge-m3",
+        model="nomic-embed-text",
         prompt=text
     )
     return response["embedding"]

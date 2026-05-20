@@ -11,13 +11,20 @@ This repository contains demos and resources designed to help you **start using 
 ---
 
 ## 📂 Repository Structure
+```text
 ├── demos/
-│   ├── 01_basic_prompting.ipynb   # First steps with prompts
-│   ├── 02_text_generation.py      # Generate text with an LLM
-│   ├── 03_chat_demo.ipynb         # Interactive chat example
-│   └── 04_app_integration.py      # Using LLMs in applications
-├── requirements.txt               # Dependencies
-└── README.md                      # Project overview
+│   ├── Demo_RAG/        ---> Basic RAG demo using Ollama models
+│   │    ├── Slide_RAG.py
+│   │    ├── Slide_RAG_generalist.py
+│   ├── Demo_Tokens/        ---> A demo to show the estimated costs related to the input (prompt) and the output (answer from the model)
+│   │    ├── Slide_tokens.py
+│   │    ├── Slide_tokens_BK.ipynb
+│   ├── Demo_opener/        ---> A starter demo to show some of the basic uses for LLMs
+│   │    ├── Opener_demo.ipynb
+│   │    ├── Opener_demo_BK.ipynb
+├── requirements.txt
+└── README.md
+```
 
 ## 🎯 Goals
 - Make LLMs approachable for beginners.

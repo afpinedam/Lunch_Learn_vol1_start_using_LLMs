@@ -5,6 +5,11 @@ This repository contains demos and resources designed to help you **start using 
 
 ---
 
+## ✅ Requirements
+- Python
+- Ollama
+- Libraries mentioned in the "requirements.txt" file
+
 ## 🚀 What You'll Find Here
 - **Introductory Demos**: Step-by-step examples showing how to interact with LLMs.
 - **Hands-on Code**: Simple scripts to get you started quickly. Ollama and OpenAI are used for the demos.

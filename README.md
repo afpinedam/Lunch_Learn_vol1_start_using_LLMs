@@ -33,4 +33,5 @@ This repository contains demos and resources designed to help you **start using 
 
 ## 📜 Additional note 
 If you don't have an OpenAI API key, you can adapt the code to use the models from a different company like Google or Anthropic.
+
 Looking for a free option? You could use HuggingFace and Ollama platforms to download local models (run in your PC) and adapt the scripts. There you could find great options for learning, testing or even developing for real cases (depends on the needing and your hardware).
